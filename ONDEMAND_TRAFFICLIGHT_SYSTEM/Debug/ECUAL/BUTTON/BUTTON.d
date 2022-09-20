@@ -1,0 +1,9 @@
+ECUAL/BUTTON/BUTTON.d ECUAL/BUTTON/BUTTON.o: ../ECUAL/BUTTON/BUTTON.c \
+ ../ECUAL/BUTTON/BUTTON.h ../ECUAL/BUTTON/../../MCAL/DIO/DIO.h \
+ ../ECUAL/BUTTON/../../MCAL/DIO/../../Utilities/Registers.h
+
+../ECUAL/BUTTON/BUTTON.h:
+
+../ECUAL/BUTTON/../../MCAL/DIO/DIO.h:
+
+../ECUAL/BUTTON/../../MCAL/DIO/../../Utilities/Registers.h:
